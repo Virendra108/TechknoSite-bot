@@ -1,9 +1,8 @@
-````markdown
 # 📋 Telegram Daily Progress Report Bot
 
 > An AI-powered Telegram bot that converts voice notes into structured daily project progress reports and automatically generates a professional Microsoft Word (`.docx`) document.
 
-Designed as a local **Proof of Concept (POC)**, this project demonstrates an end-to-end AI pipeline integrating speech transcription, LLM-based information extraction, dynamic document generation, and PostgreSQL persistence.
+Designed as a local **Proof of Concept (POC)**, this project demonstrates an end-to-end AI pipeline integrating speech transcription, LLM-based information extraction, dynamic document generation, and Telegram integration.
 
 ---
 
@@ -321,4 +320,3 @@ This project demonstrates:
 **Virendra Ghule**
 
 ---
-````
